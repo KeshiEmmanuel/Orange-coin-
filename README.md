@@ -28,19 +28,20 @@
 </h2>
 <p>
 I started out by installing the dependencies needed 😏, Afterward i created the navbar which contains the logo insipred by me 😁 designed it using Illustrator and the custom-made 3d inspired input field and 😌 Sign-in button.
-
+<br/>
 <br/>
 Then built the hero section geting insipration from  <a href="https://www.dribble.com" target="_blank">dribble</a>
  also ✨ adding some simple animation to the texts in the hero section
-
+<br/>
  <br/>
  After wards, Started testing out API to fetch the crypto coins and finally using coinranking API in Rapid api.
-
+<br/>
 <br/>
 Through out all this process i ensures using react 😎 best-practies like seperation of courses ++ , ES6 , destructing etc
-
 <br/>
-😊 Lastly created the functionality for searching coins without the search button.
-
+<br/>
+😊 Lastly created the functionality for searching coins without the search button. it was fun building this simple project learning react best practies and understading how React works!  
+<br/>
+<br/>
 </p>
 </div>
