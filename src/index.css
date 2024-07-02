@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.wrapper {
+  max-width: 1150px;
+  margin-inline: 1.5rem;
+}
+.handleSearchIcon {
+  display: block;
+  position: relative;
+}
+.handleInput {
+  display: none;
+}
+@media screen and (min-width: 1150px) {
+  .wrapper {
+    margin-inline: auto;
+  }
+  .handleSearchIcon {
+    display: none;
+  }
+  .handleInput {
+    display: inline;
+  }
+}
+.signUpborder {
+  border-bottom: 3px solid #9c501d;
+  transition: all 600ms;
+}
+.signUpborder:hover {
+  opacity: 0.5;
+  border-bottom: 3px solid #3b3e41;
+  padding: 17.5px 20px;
+}
+.inputBorder {
+  border-bottom: 3px solid #2e333a;
+  transition: all 600ms;
+}
+
+.coinbackground {
+  /* From https://css.glass */
+  /* From https://css.glass */
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.07);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(15.3px);
+  -webkit-backdrop-filter: blur(15.3px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  transition: all 800ms;
+}
+::-webkit-scrollbar {
+  background-color: #010006;
+  width: 7px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #9c501d;
+  border-radius: 9999px;
+}
+
+.coinbackground:hover {
+  border: 1px solid #9c501d;
+  transform: translateY(-10px);
+}
