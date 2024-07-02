@@ -6,10 +6,10 @@
 <p align="center">Orange coin searcher is a simple web app that allows you to search all types of crypto currencies it is built using
 </p>
 
+</div>
 <ul>
   <li>JavaScript</li>
   <li>React JS</li>
   <li>Tailwind CSS</li>
   <li>GSAP</li>
 </ul>
-</div>
