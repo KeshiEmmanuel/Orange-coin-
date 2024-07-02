@@ -44,4 +44,49 @@ Through out all this process i ensures using react 😎 best-practies like seper
 <br/>
 <br/>
 </p>
+
+<h2>🚦 Running the Project</h2>
+<p>To run the project in your local environment, follow these steps</p>
+<ol>
+<li>Clone the repository 
+  
+   ```sh
+   git clone https://github.com/emmdeveloper/Orange-coin-.git
+   ```
+<li>
+<li>
+run NPM or yarn install
+
+```sh
+  npm install
+```
+
+</li>
+<li> run npm start or yarn Install
+
+```sh
+  npm start
+```
+
+</li>
+<li> 
+Open <a href="https://localhost:5173" target="_blank">https://localhost:5173</a>
+</li>
+</ol>
+
+<h1> 💥 Acknowledgements</h1>
+<ul>
+<li>
+ <a href="https://gsap.com/" target="_blank">GSAP</a>
+</li>
+<li>
+ <a href="https://react.dev" target="_blank">React JS</a>
+</li>
+<li>
+ <a href="https://rapidapi.com/hub" target="_blank">Rapid API</a>
+</li>
+<li>
+ <a href="https://react-icons.github.io/react-icons/" target="_blank">React Icons</a>
+</li>
+</ul>
 </div>
