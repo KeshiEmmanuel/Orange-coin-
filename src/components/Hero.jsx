@@ -14,9 +14,6 @@ const Hero = () => {
       x: "-100%",
     });
   });
-  // function selectedOption(e) {
-  //   console.log(e.target.value);
-  // }
   return (
     <section className="py-36">
       <div>
@@ -35,11 +32,6 @@ const Hero = () => {
       <section className="mt-10">
         <AllCoins />
       </section>
-      {/*   <select name="" id="" onChange={(e) => selectedOption(e)}>
-        <option value="Price">Price</option>
-        <option value="Exchange">Exchange</option>
-        <option value="Market Cap">Market Cap</option>
-      </select> */}
     </section>
   );
 };
