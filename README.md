@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/public/app_screenshot.png" width="80" height="80" />
+<img src="/public/app_screenshot.png" width="380" height="380" />
 
 <h3 align="center">Orange coin - Crypto currencies searcher</h3>
 
