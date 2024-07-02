@@ -1,15 +1,23 @@
 <div align="center">
-<img src="/public/app_screenshot.png" width="380" height="380" />
+<img src="/public/app_screenshot.png"  alt="app"/>
 
-<h3 align="center">Orange coin - Crypto currencies searcher</h3>
+<h1 align="center">Orange coin - Crypto currencies searcher</h1>
 
-<p align="center">Orange coin searcher is a simple web app that allows you to search all types of crypto currencies it is built using
-</p>
+<h5 align="center">Orange coin searcher is a simple web app that allows you to search all types of crypto currencies it is built using
+</h5>
 
 </div>
 <ul>
-  <li>JavaScript</li>
-  <li>React JS</li>
-  <li>Tailwind CSS</li>
   <li>GSAP</li>
+  <li>React JS</li>
+  <li>JavaScript</li>
+  <li>Tailwind CSS</li>
 </ul>
+
+<div>
+<h1>🤖Features</h1>
+<ul>
+<li>Search for any cryptocurrency</li>
+<li>View cryptocurrency basic stats</li>
+</ul>
+</div>
