@@ -53,7 +53,7 @@ Through out all this process i ensures using react 😎 best-practies like seper
    ```sh
    git clone https://github.com/emmdeveloper/Orange-coin-.git
    ```
-<li>
+</li>
 <li>
 run NPM or yarn install
 
@@ -89,4 +89,8 @@ Open <a href="https://localhost:5173" target="_blank">https://localhost:5173</a>
  <a href="https://react-icons.github.io/react-icons/" target="_blank">React Icons</a>
 </li>
 </ul>
+<br/>
+<br/>
+<p>Leave a Star ⭐</p>
+<p>🕊🤗 Peact Out!</p>
 </div>
